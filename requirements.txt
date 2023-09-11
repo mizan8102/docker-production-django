@@ -1,0 +1,4 @@
+Django==4.2.5
+
+# Specify the Gunicorn version
+gunicorn==20.0.4
